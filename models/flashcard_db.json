@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Why do we use flask ?",
+    "Answer": "Flask is lightweight and yet very comprehensive framework."
+  },
+
+  {
+    "Question": "What is Pydantic used for ?",
+    "Answer": "Data Validation"
+  },
+
+  {
+    "Question": "What output id() function generates ?",
+    "Answer": "Identification (Memory Address) of an object"
+  },
+
+  {
+    "Question": "What are HTTP Verbs ?",
+    "Answer": "GET, POST, PATCH, PUT, DELETE"
+  },
+
+  {
+    "Question": "What are HTTP status codes ?",
+    "Answer": "200 (SUCCESS), 404 (NOT FOUND), 302 (REDIRECT)  "
+  }
+]
